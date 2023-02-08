@@ -1,5 +1,7 @@
 import {Post} from "./Post"
 
+import './styles.css'
+
 export function App() {
   return (
     <div>
@@ -15,3 +17,4 @@ export function App() {
   )
 }
 
+ 
